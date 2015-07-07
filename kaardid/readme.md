@@ -1,2 +1,2 @@
 ## Kaardid
-[geojson.io](http://geojson.io/) abil koostatud kaardid
+[geojson.io](http://geojson.io/) abil kannetele koostatud kaardid.
