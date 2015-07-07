@@ -6,5 +6,5 @@
 * [Koidu küla teemad](https://github.com/tormi/kov/labels/koidu)
 
 ### Projektid
-* [Ettepanekud Saue valla arengukavale](#4)
-* [Ettepanekud Harju maakonnaplaneeringu eelnõule](#5)
+* [Ettepanekud Saue valla arengukavale](https://github.com/tormi/KOV/issues/4)
+* [Ettepanekud Harju maakonnaplaneeringu eelnõule](https://github.com/tormi/KOV/issues/5)
