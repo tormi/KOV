@@ -1,6 +1,7 @@
 ## Omavalitsemisega seotud teemad
 
 ### Jooksvad teemad
+* [Kõik teemad](https://github.com/tormi/KOV/issues), sh
 * [Osalemine Saue valla maa- ja planeeringute komisjoni töös](https://github.com/tormi/kov/labels/maakomisjon)
 * [Osalemine Nõlvaku Lasteaia hoolekogu töös](https://github.com/tormi/kov/labels/lasteaed)
 * [Koidu küla teemad](https://github.com/tormi/kov/labels/koidu)
