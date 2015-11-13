@@ -7,7 +7,3 @@
 * [Koidu küla teemad](https://github.com/tormi/kov/labels/koidu)
 * [Laagri teemad](https://github.com/tormi/kov/labels/laagri)
 * [Tallinna teemad](https://github.com/tormi/kov/labels/tallinn)
-
-### Projektid
-* [Ettepanekud Saue valla arengukavale](https://github.com/tormi/KOV/issues/4)
-* [Ettepanekud Harju maakonnaplaneeringu eelnõule](https://github.com/tormi/KOV/issues/5)
