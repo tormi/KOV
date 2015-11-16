@@ -46,6 +46,6 @@ window.api.map.addLayer( L.tileLayer.wms("http://kaart.maaamet.ee/wms/alus-geo?"
 // Laagri ümbersõit
 window.api.map.addLayer( L.tileLayer('http://mapwarper.net/maps/tile/2208/{z}/{x}/{y}.png' ) );
 // Koru detailplaneering (avalikustamine)
-window.api.map.addLayer( L.tileLayer('http://mapwarper.net/maps/tile/2208/{z}/{x}/{y}.png' ) );
+window.api.map.addLayer( L.tileLayer('http://mapwarper.net/maps/tile/11454/{z}/{x}/{y}.png' ) );
 ```
 Näidisfail: http://geojson.io/#id=github:tormi/KOV/blob/master/kaardid/koru_kergtee.geojson&map=16/59.3539/24.5852
