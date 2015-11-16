@@ -3,7 +3,10 @@
 
 ### Kuidas koostada geojson faili Maa-ameti ja enda (Mapwarper) kaardikihte kasutades
 
-Loe esmalt : https://gist.github.com/tormi/0f40c9d482b0c6e0a6da
+Loe esmalt : 
+* https://github.com/mapbox/geojson.io/issues/304
+* https://github.com/mapbox/geojson.io/blob/gh-pages/API.md
+* https://gist.github.com/tormi/0f40c9d482b0c6e0a6da
 
 geojson.io konsooli sisestatavad koodijupid:
 
