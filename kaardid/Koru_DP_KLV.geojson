@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#DC143C",
+        "stroke": "#FF0000",
         "stroke-width": 6,
-        "stroke-opacity": 0.5,
+        "stroke-opacity": 1,
         "name": "Koru tee kergtee ettepanek"
       },
       "geometry": {
@@ -250,7 +250,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Koru detailplaneeringuala kergtee 1"
+        "name": "Koru detailplaneeringuala kergtee 1",
+        "stroke": "#FFFF00",
+        "stroke-width": 6,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "LineString",
@@ -309,7 +312,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Koru detailplaneeringuala kergtee 2"
+        "name": "Koru detailplaneeringuala kergtee 2",
+        "stroke-opacity": 1,
+        "stroke": "#FFFF00",
+        "stroke-width": 6
       },
       "geometry": {
         "type": "LineString",
@@ -444,7 +450,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Koru detailplaneeringuala kergtee 3"
+        "name": "Koru detailplaneeringuala kergtee 3",
+        "stroke": "#FFFF00",
+        "stroke-width": 6,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "LineString",
@@ -527,7 +536,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Koru detailplaneeringuala kergtee 4"
+        "name": "Koru detailplaneeringuala kergtee 4",
+        "stroke": "#FFFF00",
+        "stroke-width": 6,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "LineString",
@@ -550,7 +562,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Koru detailplaneeringuala kergtee 5"
+        "name": "Koru detailplaneeringuala kergtee 5",
+        "stroke": "#FFFF00",
+        "stroke-width": 6,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "LineString",
@@ -569,7 +584,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Koru detailplaneeringuala kergtee 6"
+        "name": "Koru detailplaneeringuala kergtee 6",
+        "stroke": "#FFFF00",
+        "stroke-width": 6,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "LineString",
@@ -593,6 +611,210 @@
           [
             24.592782855033875,
             59.35624959869418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FFFF00",
+        "stroke-width": 6,
+        "stroke-opacity": 1,
+        "name": "Koru detailplaneeringuala kergtee 7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.591645598411557,
+            59.356006250824045
+          ],
+          [
+            24.59180653095245,
+            59.35617850848553
+          ],
+          [
+            24.59186553955078,
+            59.356309751831354
+          ],
+          [
+            24.591886997222897,
+            59.35649021060326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FF9900",
+        "stroke-width": 6,
+        "stroke-opacity": 1,
+        "name": "Koru detailplaneeringuala peakergtee"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.598581790924072,
+            59.349615694165756
+          ],
+          [
+            24.59862470626831,
+            59.349837209836394
+          ],
+          [
+            24.59861934185028,
+            59.349941130270246
+          ],
+          [
+            24.598705172538757,
+            59.35023374662524
+          ],
+          [
+            24.59867298603058,
+            59.35028844099128
+          ],
+          [
+            24.598340392112732,
+            59.350392360044026
+          ],
+          [
+            24.59815263748169,
+            59.3504853399795
+          ],
+          [
+            24.597739577293396,
+            59.35078342099711
+          ],
+          [
+            24.597503542900085,
+            59.35114166169321
+          ],
+          [
+            24.597455263137817,
+            59.351346759626814
+          ],
+          [
+            24.596977829933167,
+            59.35128386305892
+          ],
+          [
+            24.596655964851376,
+            59.35180890909567
+          ],
+          [
+            24.596194624900818,
+            59.352235503021625
+          ],
+          [
+            24.596307277679443,
+            59.35227105227351
+          ],
+          [
+            24.59658086299896,
+            59.35235855796566
+          ],
+          [
+            24.5966237783432,
+            59.3524405943472
+          ],
+          [
+            24.596452116966248,
+            59.35260740104502
+          ],
+          [
+            24.596521854400635,
+            59.352727720121514
+          ],
+          [
+            24.596511125564575,
+            59.35277420692325
+          ],
+          [
+            24.595974683761597,
+            59.35332930910761
+          ],
+          [
+            24.595947861671448,
+            59.35346056346965
+          ],
+          [
+            24.595540165901184,
+            59.35343868777788
+          ],
+          [
+            24.595443606376648,
+            59.35345782900896
+          ],
+          [
+            24.595325589179993,
+            59.35360002067331
+          ],
+          [
+            24.595212936401367,
+            59.35376408723823
+          ],
+          [
+            24.595196843147278,
+            59.353799634889455
+          ],
+          [
+            24.59392547607422,
+            59.35508752853232
+          ],
+          [
+            24.593485593795776,
+            59.35550587837357
+          ],
+          [
+            24.592788219451904,
+            59.356255067165606
+          ],
+          [
+            24.59268629550934,
+            59.3563589679552
+          ],
+          [
+            24.59255218505859,
+            59.356399981337226
+          ],
+          [
+            24.59187626838684,
+            59.35649567903594
+          ],
+          [
+            24.591693878173828,
+            59.356591376464834
+          ],
+          [
+            24.59162414073944,
+            59.356698010424914
+          ],
+          [
+            24.589751958847042,
+            59.35780534328517
+          ],
+          [
+            24.589290618896484,
+            59.35808695550983
+          ],
+          [
+            24.58939790725708,
+            59.358152573556644
+          ],
+          [
+            24.589526653289795,
+            59.358188116612375
+          ],
+          [
+            24.589430093765255,
+            59.35836309726707
+          ],
+          [
+            24.58889365196228,
+            59.35890443795502
           ]
         ]
       }
