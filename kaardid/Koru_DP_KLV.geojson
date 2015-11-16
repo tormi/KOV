@@ -6,7 +6,8 @@
       "properties": {
         "stroke": "#DC143C",
         "stroke-width": 6,
-        "stroke-opacity": 0.5
+        "stroke-opacity": 0.5,
+        "name": "Koru tee kergtee ettepanek"
       },
       "geometry": {
         "type": "LineString",
@@ -248,7 +249,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Koru detailplaneeringuala kergtee 1"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -305,7 +308,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Koru detailplaneeringuala kergtee 2"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -438,7 +443,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Koru detailplaneeringuala kergtee 3"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -519,7 +526,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Koru detailplaneeringuala kergtee 4"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -540,7 +549,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Koru detailplaneeringuala kergtee 5"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -557,7 +568,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Koru detailplaneeringuala kergtee 6"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
