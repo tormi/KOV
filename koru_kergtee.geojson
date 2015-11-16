@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "stroke": "#DC143C",
-        "stroke-width": 10,
-        "stroke-opacity": 1
+        "stroke-width": 6,
+        "stroke-opacity": 0.5
       },
       "geometry": {
         "type": "LineString",
