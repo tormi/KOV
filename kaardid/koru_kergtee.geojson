@@ -6,7 +6,8 @@
       "properties": {
         "stroke": "#DC143C",
         "stroke-width": 6,
-        "stroke-opacity": 0.5
+        "stroke-opacity": 0.5,
+        "Tee nimetus": "Koru tee KLT"
       },
       "geometry": {
         "type": "LineString",
