@@ -1634,6 +1634,28 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FF0000",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "Koidu tee kergtee 3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.593622386455536,
+            59.344781643595006
+          ],
+          [
+            24.593512415885925,
+            59.34484044947642
+          ]
+        ]
+      }
     }
   ]
 }
