@@ -1612,6 +1612,28 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#996600",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "Koidu tee kergtee 2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.59443509578705,
+            59.34432623646081
+          ],
+          [
+            24.593614339828488,
+            59.34478027601514
+          ]
+        ]
+      }
     }
   ]
 }
