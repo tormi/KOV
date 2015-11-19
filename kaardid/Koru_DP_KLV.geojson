@@ -1259,7 +1259,7 @@
         "stroke": "#FF0000",
         "stroke-width": 6,
         "stroke-opacity": 1,
-        "name": "Tootsi tee kergteelÃµik"
+        "name": "Tootsi tee kergteelõik"
       },
       "geometry": {
         "type": "LineString",
@@ -1305,7 +1305,7 @@
         "stroke": "#666600",
         "stroke-width": 6,
         "stroke-opacity": 1,
-        "name": "MÃ¤nniku-Laane metsatee"
+        "name": "Männiku-Laane metsatee"
       },
       "geometry": {
         "type": "LineString",
@@ -1343,7 +1343,7 @@
         "stroke": "#666600",
         "stroke-width": 6,
         "stroke-opacity": 1,
-        "name": "HÃ¤mariku metsatee"
+        "name": "Hämariku metsatee"
       },
       "geometry": {
         "type": "LineString",
@@ -1493,7 +1493,7 @@
         "stroke": "#996600",
         "stroke-width": 6,
         "stroke-opacity": 1,
-        "name": "Hoiu ring - HÃ¤mariku kergtee"
+        "name": "Hoiu ring - Hämariku kergtee"
       },
       "geometry": {
         "type": "LineString",
@@ -1559,7 +1559,7 @@
         "stroke": "#FF0000",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "name": "HÃ¤mariku lÃµik Koidu ja Saue KLT vahel"
+        "name": "Hämariku lõik Koidu ja Saue KLT vahel"
       },
       "geometry": {
         "type": "LineString",
