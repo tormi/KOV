@@ -1259,7 +1259,7 @@
         "stroke": "#FF0000",
         "stroke-width": 6,
         "stroke-opacity": 1,
-        "name": "Tootsi tee kergteelõik"
+        "name": "Tootsi tee kergteelÃµik"
       },
       "geometry": {
         "type": "LineString",
@@ -1305,7 +1305,7 @@
         "stroke": "#666600",
         "stroke-width": 6,
         "stroke-opacity": 1,
-        "name": "Männiku-Laane metsatee"
+        "name": "MÃ¤nniku-Laane metsatee"
       },
       "geometry": {
         "type": "LineString",
@@ -1343,7 +1343,7 @@
         "stroke": "#666600",
         "stroke-width": 6,
         "stroke-opacity": 1,
-        "name": "Hämariku metsatee"
+        "name": "HÃ¤mariku metsatee"
       },
       "geometry": {
         "type": "LineString",
@@ -1493,7 +1493,7 @@
         "stroke": "#996600",
         "stroke-width": 6,
         "stroke-opacity": 1,
-        "name": "Hoiu ring - Hämariku kergtee"
+        "name": "Hoiu ring - HÃ¤mariku kergtee"
       },
       "geometry": {
         "type": "LineString",
@@ -1559,7 +1559,7 @@
         "stroke": "#FF0000",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "name": "Hämariku lõik Koidu ja Saue KLT vahel"
+        "name": "HÃ¤mariku lÃµik Koidu ja Saue KLT vahel"
       },
       "geometry": {
         "type": "LineString",
@@ -1703,6 +1703,60 @@
           [
             24.592444896697998,
             59.36631282909437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FF0000",
+        "stroke-width": 6,
+        "stroke-opacity": 1,
+        "name": "Kotka tee KLT 2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.5859432220459,
+            59.36410414958929
+          ],
+          [
+            24.581694602966305,
+            59.3628685384452
+          ],
+          [
+            24.578368663787842,
+            59.36192813167146
+          ],
+          [
+            24.574720859527588,
+            59.36090568311044
+          ],
+          [
+            24.5734441280365,
+            59.3605393437774
+          ],
+          [
+            24.57208156585693,
+            59.35964261588765
+          ],
+          [
+            24.571223258972168,
+            59.35910128697357
+          ],
+          [
+            24.570815563201904,
+            59.35900833063486
+          ],
+          [
+            24.569699764251705,
+            59.35816624396709
+          ],
+          [
+            24.568111896514893,
+            59.357378819349904
           ]
         ]
       }
