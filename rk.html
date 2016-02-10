@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <title>Riigigümnaasiumid - Eesti Riigigümnaasiumite ametlik portaal</title>
+    </head>
+    <body>
+    <div id="map">
+				<h2>Gümnaasiumid kaardil</h2>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAgS1fOFVaYbO8CK6WbyS8vNP_JWEnNTxQ&amp;sensor=false"></script>
+<script type="text/javascript">
+	function initialize() {
+		var mapOptions = {
+			center: new google.maps.LatLng(58.6, 25),
+			zoom: 7,
+			mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+		var map = new google.maps.Map(document.getElementById("gmap"), mapOptions);
+		setMarkers(map, schools);
+	}
+	var schools = [
+		['Jõgevamaa Gümnaasium', 58.746264, 26.387655, 1, 'Aia 34, Jõgeva', 'http://jogevagymn.kovtp.ee'],
+		['Viljandi Gümnaasium', 58.362823, 25.591189, 2, 'Hariduse 2, Viljandi', 'http://www.viljandigymnaasium.edu.ee'],
+		['Nõo Reaalgümnaasium', 58.280687, 26.536421, 3, 'Hariduse 3, Nõo', 'http://nrg.tartu.ee/'],
+		['Läänemaa Ühisgümnaasium', 58.946898,23.534063, 5, 'F. J. Wiedemanni 15, Haapsalu', 'http://lyg.edu.ee/'],
+		['Noarootsi Gümnaasium', 59.038435,23.54074, 4, 'Pürksi küla, Noarootsi vald, Läänemaa', 'http://www.ng.edu.ee/']
+	];
+	var marker = '';
+	var infowindow = new google.maps.InfoWindow({
+		content: 'asd',
+		maxWidth: 225
+	});
+	
+	function setMarkers(map, locations) {
+		for (var i = 0; i < locations.length; i++) {
+		    var school = locations[i];
+		    var myLatLng = new google.maps.LatLng(school[1], school[2]);
+		    var marker = new google.maps.Marker({
+				position: myLatLng,
+				map: map,
+				title: school[0],
+				zIndex: school[3],
+				animation: google.maps.Animation.DROP
+			});
+			
+			google.maps.event.addListener(marker, 'click', (function(marker, i) {
+				return function() {
+					infowindow.setContent('<strong>' + locations[i][0] + '</strong><br>' + locations[i][4] + '<br><a href="'+ locations[i][5] +'">Veebileht</a>');
+					infowindow.open(map, marker);
+				}
+			})(marker, i));
+		}
+	}
+
+	google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+<div id="gmap"></div>
+</div>
+    </body>
+</html>
