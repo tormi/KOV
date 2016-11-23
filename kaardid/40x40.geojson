@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nimetus": "Koidumetsa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.5830776,
+              59.3405264
+            ],
+            [
+              24.5833136,
+              59.3408673
+            ],
+            [
+              24.5839971,
+              59.3407566
+            ],
+            [
+              24.5837469,
+              59.3404094
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
