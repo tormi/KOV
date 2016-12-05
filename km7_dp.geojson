@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 1,
+        "pindala": 1826.33
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -38,7 +41,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 2,
+        "pindala": 1933.41
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69,7 +75,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 3,
+        "pindala": "743.30"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -104,7 +113,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 4,
+        "pindala": 2085.82
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -139,7 +151,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 5,
+        "pindala": 2178.79
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -170,7 +185,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 6,
+        "pindala": 1575.44
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -205,7 +223,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 7,
+        "pindala": 1613.83
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -219,7 +240,7 @@
               59.34147877771978
             ],
             [
-              24.584907889366146,
+              24.584910571575165,
               59.34115873140964
             ],
             [
@@ -236,7 +257,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 8,
+        "pindala": 1506.52
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -254,8 +278,8 @@
               59.341403553430816
             ],
             [
-              24.584905207157135,
-              59.34116146686096
+              24.584915935993195,
+              59.34115873140964
             ],
             [
               24.584355354309082,
@@ -267,7 +291,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 9,
+        "pindala": 1491.67
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -318,7 +345,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 10,
+        "pindala": 1303.16
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -349,7 +379,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nr": 11,
+        "pindala": 1508.46
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
