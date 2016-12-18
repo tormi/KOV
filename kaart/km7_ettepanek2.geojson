@@ -7,11 +7,11 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#f3eb03",
+        "fill": "#10ac09",
         "fill-opacity": 0.5,
         "id": 4,
-        "nimetus": "EE",
-        "pindala": "1512.90"
+        "nimetus": "S (tenniseväljak)",
+        "pindala": 2090.23
       },
       "geometry": {
         "type": "Polygon",
@@ -55,7 +55,7 @@
         "fill-opacity": 0.5,
         "id": 3,
         "nimetus": "EE",
-        "pindala": 1351.31
+        "pindala": 1231.05
       },
       "geometry": {
         "type": "Polygon",
@@ -282,7 +282,7 @@
         "fill-opacity": 0.5,
         "id": 5,
         "nimetus": "EE",
-        "pindala": 1519.77
+        "pindala": "1512.70"
       },
       "geometry": {
         "type": "Polygon",
@@ -322,7 +322,7 @@
         "fill-opacity": 0.5,
         "id": 6,
         "nimetus": "EE",
-        "pindala": 1624.01
+        "pindala": 1559.99
       },
       "geometry": {
         "type": "Polygon",
@@ -362,7 +362,7 @@
         "fill-opacity": 0.5,
         "id": 7,
         "nimetus": "EE",
-        "pindala": 1575.86
+        "pindala": "1526.00"
       },
       "geometry": {
         "type": "Polygon",
@@ -406,7 +406,7 @@
         "fill-opacity": 0.5,
         "id": 8,
         "nimetus": "EE",
-        "pindala": "2060.50"
+        "pindala": 1449.59
       },
       "geometry": {
         "type": "Polygon",
@@ -450,7 +450,7 @@
         "fill-opacity": 0.5,
         "id": 9,
         "nimetus": "EE",
-        "pindala": 2172.06
+        "pindala": 1411.83
       },
       "geometry": {
         "type": "Polygon",
@@ -470,7 +470,7 @@
             ],
             [
               24.583727717399597,
-              59.3411888213621
+              59.34119155681103
             ],
             [
               24.58318591117859,
@@ -574,7 +574,7 @@
         "fill-opacity": 0.5,
         "id": 12,
         "nimetus": "L",
-        "pindala": 730.67
+        "pindala": 796.65
       },
       "geometry": {
         "type": "Polygon",
@@ -618,7 +618,7 @@
         "fill-opacity": 0.5,
         "id": 13,
         "nimetus": "L",
-        "pindala": 1549.32
+        "pindala": "1251.90"
       },
       "geometry": {
         "type": "Polygon",
@@ -650,7 +650,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#f3eb03",
+        "fill-opacity": 0.5,
+        "id": 12,
+        "nimetus": "EE",
+        "pindala": "1486.00"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -660,8 +669,8 @@
               59.341519809079884
             ],
             [
-              24.583727717399597,
-              59.341197027708176
+              24.583722352981567,
+              59.34119429225971
             ],
             [
               24.58415150642395,
