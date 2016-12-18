@@ -533,8 +533,8 @@
         "fill": "#f3eb03",
         "fill-opacity": 0.5,
         "id": 11,
-        "title": "EE",
-        "description": 1989.57
+        "nimetus": "EE",
+        "pindala": 1989.57
       },
       "geometry": {
         "type": "Polygon",
