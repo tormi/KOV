@@ -691,9 +691,9 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#d6260e",
+        "stroke": "#a46505",
         "stroke-width": 5,
-        "stroke-opacity": 1,
+        "stroke-opacity": 0.8,
         "nimetus": "kergtee"
       },
       "geometry": {
