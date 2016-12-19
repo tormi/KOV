@@ -91,7 +91,6 @@
         "stroke": "#28b70d",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "id": 2,
         "nimetus": "100 m jõest",
         "fill": ""
       },
@@ -183,8 +182,7 @@
         "stroke": "#f60707",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "nimetus": "50 m jõest",
-        "id": 1
+        "nimetus": "50 m jõest"
       },
       "geometry": {
         "type": "LineString",
